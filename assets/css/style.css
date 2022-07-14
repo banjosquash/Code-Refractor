@@ -70,13 +70,13 @@ p {
     margin-left: 25px;
 }
 
-main {
+nav {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-main img {
+nav div {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -85,25 +85,14 @@ main img {
     color: #ffffff;
 }
 
-
-
-.search-engine-optimization img {
+nav img {
     max-height: 200px;
 }
 
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-.social-media-marketing img {
-    max-height: 200px;
-}
-
-main h2 {
+nav h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
 
 aside {
     margin-right: 20px;
